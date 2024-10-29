@@ -5,3 +5,24 @@ body {
 p {
   color: white;
 }
+
+.piel-aspiradora{
+  color: rgb(225, 206, 199) ;
+}
+
+.celeste-subtitulo {
+  color:rgb(163, 191, 200) ;
+}
+
+.gris-consola {
+  color:rgb(192, 190, 193) ;
+}
+
+.azul-home {
+color: rgb(141, 146, 158);
+}
+
+
+.gris-televisor {
+  color: rgb(177, 177, 175);
+}
