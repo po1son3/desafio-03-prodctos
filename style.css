@@ -4,6 +4,29 @@ body {
 
 p {
   color: white;
+  font-family: Arial, Gadget, sans-serif;
+  font-weight: lighter;
+  word-spacing: 4px;
+}
+
+h1 {
+  text-align: center;
+  background: white;
+  color: rgb(163, 191, 200);
+  font-size: 50px;
+  font-weight: bold;
+  
+}
+
+h2 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-weight: lighter;
+}
+
+img {
+  
+  border: 5px solid;
+  
 }
 
 .piel-aspiradora{
@@ -26,3 +49,25 @@ color: rgb(141, 146, 158);
 .gris-televisor {
   color: rgb(177, 177, 175);
 }
+
+
+.borde-piel {
+  color: rgb(225, 206, 199);
+}
+
+.borde-celeste {
+  color:rgb(163, 191, 200);
+}
+
+.borde-gris {
+  color:rgb(192, 190, 193) ;
+}
+
+.borde-azul {
+  color: rgb(141, 146, 158);
+}
+
+.borde-gris {
+  color: rgb(177, 177, 175);
+}
+
