@@ -2,9 +2,11 @@ body {
   background-color: rgb(39, 50, 56);
 }
 
+
+
 p {
   color: white;
-  font-family: Arial, Gadget, sans-serif;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
   font-weight: lighter;
   word-spacing: 4px;
 }
@@ -12,10 +14,10 @@ p {
 h1 {
   text-align: center;
   background: white;
-  color: rgb(163, 191, 200);
-  font-size: 50px;
+  color: rgb(110, 136, 145);
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 70px;
   font-weight: bold;
-  
 }
 
 h2 {
@@ -28,6 +30,11 @@ img {
   border: 5px solid;
   
 }
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 
 .piel-aspiradora{
   color: rgb(225, 206, 199) ;
